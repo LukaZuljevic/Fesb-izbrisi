@@ -12,6 +12,7 @@ namespace PIS_izbrisi
         {
             Console.WriteLine("fneifoe");
             Console.WriteLine("fneifoe");
+            Console.WriteLine("conflict");
         }
     }
 }
