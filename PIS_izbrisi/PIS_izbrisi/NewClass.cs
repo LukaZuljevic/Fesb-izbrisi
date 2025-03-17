@@ -11,6 +11,8 @@ namespace PIS_izbrisi
         public void PrintMessages()
         {
             Console.WriteLine("fneifoe");
+            Console.WriteLine("fneifoe1234");
+            
             Console.WriteLine("fneifoe");
             Console.WriteLine("conflict");
         }
