@@ -1,0 +1,14 @@
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\bin\Debug\net8.0\PIS_izbrisi.exe
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\bin\Debug\net8.0\PIS_izbrisi.deps.json
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\bin\Debug\net8.0\PIS_izbrisi.runtimeconfig.json
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\bin\Debug\net8.0\PIS_izbrisi.dll
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\bin\Debug\net8.0\PIS_izbrisi.pdb
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\PIS_izbrisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\PIS_izbrisi.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\PIS_izbrisi.AssemblyInfo.cs
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\PIS_izbrisi.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\PIS_izbrisi.dll
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\refint\PIS_izbrisi.dll
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\PIS_izbrisi.pdb
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\PIS_izbrisi.genruntimeconfig.cache
+C:\Users\Luka\Desktop\Fesb-izbrisi\PIS_izbrisi\PIS_izbrisi\obj\Debug\net8.0\ref\PIS_izbrisi.dll
