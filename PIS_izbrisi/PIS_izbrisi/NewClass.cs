@@ -8,5 +8,6 @@ namespace PIS_izbrisi
 {
     internal class NewClass
     {
+        console.writeline("fneifoe");
     }
 }
