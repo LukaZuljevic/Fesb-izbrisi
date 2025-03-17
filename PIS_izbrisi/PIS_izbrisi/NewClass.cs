@@ -8,6 +8,10 @@ namespace PIS_izbrisi
 {
     internal class NewClass
     {
-        console.writeline("fneifoe");
+        public void PrintMessages()
+        {
+            Console.WriteLine("fneifoe");
+            Console.WriteLine("fneifoe");
+        }
     }
 }
